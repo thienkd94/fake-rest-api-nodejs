@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": 1,
+     "name": "Apple Watch Series 5",
+     "price": "499,99",
+     "quantity": 2,
+     "img": "https://bachlongmobile.com/media/catalog/product/cache/2/image/040ec09b1e35df139433887a97daa66f/2/0/2076130625_1_1_1.jpg",
+     "description": "Description for Apple Watch Series 5"
+    },
+    {
+      "id": 2,
+     "name": "iPhone 11 Pro Max",
+     "price": "1099,99",
+     "quantity": 1,
+     "img": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/9/11/637037687763926758_11-pro-max-xanh.png",
+     "description": "Description for iPhone 11 Pro Max"
+    },
+    {
+      "id": 3,
+     "name": "Macbook Pro 16 inch",
+     "price": "2399,99",
+     "quantity": 1,
+     "img": "https://shopdunk.com/wp-content/uploads/2019/11/mac16inch.jpg",
+     "description": "Description for Macbook Pro 16 inch"
+    },
+    {
+      "id": 4,
+     "name": "iPad Pro 12.9 inch",
+     "price": "999,99",
+     "quantity": 1,
+     "img": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/1/11/636828015979564724_ipad-pro-12-9-xam-1.png",
+     "description": "Description for iPad Pro 12.9 inch"
+    },
+    {
+      "id": 5,
+     "name": "AirPods Pro",
+     "price": "250",
+     "quantity": 3,
+     "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=1144&hei=1144&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1572990352299",
+     "description": "Description for AirPods Pro"
+    }
+  ],
+  "cart": [
+      {
+          "id": 2,
+         "name": "iPhone 11 Pro Max",
+         "price": "1099,99",
+         "quantity": 1,
+         "img": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/9/11/637037687763926758_11-pro-max-xanh.png",
+         "description": "Description for iPhone 11 Pro Max"
+        },
+        {
+          "id": 3,
+         "name": "Macbook Pro 16 inch",
+         "price": "2399,99",
+         "quantity": 1,
+         "img": "https://shopdunk.com/wp-content/uploads/2019/11/mac16inch.jpg",
+         "description": "Description for Macbook Pro 16 inch"
+        }
+  ]
+}
