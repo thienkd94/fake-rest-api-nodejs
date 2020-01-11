@@ -220,6 +220,14 @@
   ],
   "cart": [
     {
+      "id": 4,
+      "name": "iPad Pro 12.9 inch",
+      "price": 999.99,
+      "quantity": 1,
+      "img": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/1/11/636828015979564724_ipad-pro-12-9-xam-1.png",
+      "description": "Description for iPad Pro 12.9 inch"
+    },
+    {
       "id": 1,
       "name": "Apple Watch Series 5",
       "price": 499.99,
