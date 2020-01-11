@@ -220,6 +220,22 @@
   ],
   "cart": [
     {
+      "id": 1,
+      "name": "Apple Watch Series 5",
+      "price": 499.99,
+      "quantity": 2,
+      "img": "https://bachlongmobile.com/media/catalog/product/cache/2/image/040ec09b1e35df139433887a97daa66f/2/0/2076130625_1_1_1.jpg",
+      "description": "Description for Apple Watch Series 5"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 11 Pro Max",
+      "price": 1099.99,
+      "quantity": 2,
+      "img": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/9/11/637037687763926758_11-pro-max-xanh.png",
+      "description": "Description for iPhone 11 Pro Max"
+    },
+    {
       "id": 6,
       "name": "iMac Pro",
       "price": 1299,
