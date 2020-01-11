@@ -1,62 +1,263 @@
 {
-  "products": [
-    {
-      "id": 1,
-     "name": "Apple Watch Series 5",
-     "price": "499,99",
-     "quantity": 2,
-     "img": "https://bachlongmobile.com/media/catalog/product/cache/2/image/040ec09b1e35df139433887a97daa66f/2/0/2076130625_1_1_1.jpg",
-     "description": "Description for Apple Watch Series 5"
-    },
-    {
-      "id": 2,
-     "name": "iPhone 11 Pro Max",
-     "price": "1099,99",
-     "quantity": 1,
-     "img": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/9/11/637037687763926758_11-pro-max-xanh.png",
-     "description": "Description for iPhone 11 Pro Max"
-    },
-    {
-      "id": 3,
-     "name": "Macbook Pro 16 inch",
-     "price": "2399,99",
-     "quantity": 1,
-     "img": "https://shopdunk.com/wp-content/uploads/2019/11/mac16inch.jpg",
-     "description": "Description for Macbook Pro 16 inch"
-    },
+  "users": [
     {
       "id": 4,
-     "name": "iPad Pro 12.9 inch",
-     "price": "999,99",
-     "quantity": 1,
-     "img": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/1/11/636828015979564724_ipad-pro-12-9-xam-1.png",
-     "description": "Description for iPad Pro 12.9 inch"
+      "name": "Goober Banting",
+      "birthday": "1992-09-22",
+      "email": "gbanting4@prweb.com",
+      "phone": "563-471-5104",
+      "gender": "Male"
     },
     {
       "id": 5,
-     "name": "AirPods Pro",
-     "price": "250",
-     "quantity": 3,
-     "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=1144&hei=1144&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1572990352299",
-     "description": "Description for AirPods Pro"
+      "name": "Roana Clail",
+      "email": "rclail5@geocities.jp",
+      "phone": "952-408-0056",
+      "birthday": "1992-05-13",
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "name": "Lindy Hubbard",
+      "email": "lhubbard6@networkadvertising.org",
+      "phone": "967-486-1276",
+      "birthday": "2006-11-24",
+      "gender": "Male"
+    },
+    {
+      "id": 7,
+      "name": "Jerad Adney",
+      "email": "jadney7@weebly.com",
+      "phone": "787-503-1575",
+      "birthday": "2009-01-05",
+      "gender": "Male"
+    },
+    {
+      "id": 8,
+      "name": "Davina Tassaker",
+      "email": "dtassaker8@latimes.com",
+      "phone": "932-840-1592",
+      "birthday": "2000-10-24",
+      "gender": "Female"
+    },
+    {
+      "id": 9,
+      "name": "Torrance Arboine",
+      "email": "tarboine9@delicious.com",
+      "phone": "411-464-4275",
+      "birthday": "2005-08-18",
+      "gender": "Male"
+    },
+    {
+      "id": 10,
+      "name": "Giulio Ettery",
+      "email": "getterya@drupal.org",
+      "phone": "673-147-1387",
+      "birthday": "2009-06-02",
+      "gender": "Male"
+    },
+    {
+      "id": 11,
+      "name": "Rivkah Cobbledick",
+      "email": "rcobbledickb@1und1.de",
+      "phone": "661-628-0436",
+      "birthday": "2006-03-18",
+      "gender": "Female"
+    },
+    {
+      "id": 12,
+      "name": "Pandora Matashkin",
+      "email": "pmatashkinc@desdev.cn",
+      "phone": "400-799-7009",
+      "birthday": "1993-12-28",
+      "gender": "Female"
+    },
+    {
+      "id": 13,
+      "name": "Alick Le Conte",
+      "email": "aled@wunderground.com",
+      "phone": "793-362-9744",
+      "birthday": "1990-09-19",
+      "gender": "Male"
+    },
+    {
+      "id": 14,
+      "name": "Berte Crowson",
+      "email": "bcrowsone@infoseek.co.jp",
+      "phone": "831-852-2078",
+      "birthday": "2006-08-27",
+      "gender": "Female"
+    },
+    {
+      "id": 15,
+      "name": "Lazar Maides",
+      "email": "lmaidesf@dagondesign.com",
+      "phone": "934-716-2930",
+      "birthday": "2004-03-15",
+      "gender": "Male"
+    },
+    {
+      "id": 16,
+      "name": "Yetta Coldtart",
+      "email": "ycoldtartg@deliciousdays.com",
+      "phone": "331-725-4252",
+      "birthday": "2001-11-25",
+      "gender": "Female"
+    },
+    {
+      "id": 17,
+      "name": "Sollie Wildes",
+      "email": "swildesh@omniture.com",
+      "phone": "933-825-3825",
+      "birthday": "2008-07-12",
+      "gender": "Male"
+    },
+    {
+      "id": 18,
+      "name": "Eyde Birtles",
+      "email": "ebirtlesi@reuters.com",
+      "phone": "533-163-0421",
+      "birthday": "1991-11-14",
+      "gender": "Female"
+    },
+    {
+      "id": 19,
+      "name": "Jerrie Judge",
+      "email": "jjudgej@psu.edu",
+      "phone": "388-758-4195",
+      "birthday": "2003-12-17",
+      "gender": "Male"
+    },
+    {
+      "name": "Miguel Peploe",
+      "birthday": "2007-09-10",
+      "email": "mpeploek@domainmarket.com",
+      "phone": "951-732-8131",
+      "id": 20
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple Watch Series 5",
+      "price": 499.99,
+      "quantity": 2,
+      "img": "https://bachlongmobile.com/media/catalog/product/cache/2/image/040ec09b1e35df139433887a97daa66f/2/0/2076130625_1_1_1.jpg",
+      "description": "Description for Apple Watch Series 5"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 11 Pro Max",
+      "price": 1099.99,
+      "quantity": 2,
+      "img": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/9/11/637037687763926758_11-pro-max-xanh.png",
+      "description": "Description for iPhone 11 Pro Max"
+    },
+    {
+      "id": 3,
+      "name": "Macbook Pro 16 inch",
+      "price": 2399.99,
+      "quantity": 1,
+      "img": "https://shopdunk.com/wp-content/uploads/2019/11/mac16inch.jpg",
+      "description": "Description for Macbook Pro 16 inch"
+    },
+    {
+      "id": 4,
+      "name": "iPad Pro 12.9 inch",
+      "price": 999.99,
+      "quantity": 1,
+      "img": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/1/11/636828015979564724_ipad-pro-12-9-xam-1.png",
+      "description": "Description for iPad Pro 12.9 inch"
+    },
+    {
+      "id": 5,
+      "name": "AirPods Pro",
+      "price": 250,
+      "quantity": 5,
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=1144&hei=1144&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1572990352299",
+      "description": "Description for AirPods Pro"
+    },
+    {
+      "id": 6,
+      "name": "iMac Pro",
+      "price": 1299,
+      "quantity": 2,
+      "img": "https://laptopvang.com/wp-content/uploads/2019/03/imac-27inch-2019-laptopvang.jpg",
+      "description": "Description for iMac Pro"
+    },
+    {
+      "id": 7,
+      "name": "Mac Mini",
+      "price": 799,
+      "quantity": 2,
+      "img": "https://cdn.fptshop.com.vn/Uploads/Originals/2018/11/15/636778939663709826_macmini-1.png",
+      "description": "Description for Mac Mini"
+    },
+    {
+      "id": 8,
+      "name": "Magic Mouse 2",
+      "price": 99,
+      "quantity": 6,
+      "img": "https://cf.shopee.vn/file/a901c254e36412dc6aa13c1e60694c54",
+      "description": "Description for Magic Mouse 2"
+    },
+    {
+      "id": 9,
+      "name": "Magic Trackpad 2",
+      "price": 149,
+      "quantity": 3,
+      "img": "https://static.bhphoto.com/images/images2500x2500/1542283649_1190588.jpg",
+      "description": "Description for Magic Trackpad 2 "
+    },
+    {
+      "id": 10,
+      "name": "Magic Keyboard ",
+      "price": 149,
+      "quantity": 4,
+      "img": "https://phukienmac.vn/wp-content/uploads/2018/01/Apple-Wireless-Magic-Keyboard-2.jpg",
+      "description": "Description for Magic Keyboard"
     }
   ],
   "cart": [
-      {
-          "id": 2,
-         "name": "iPhone 11 Pro Max",
-         "price": "1099,99",
-         "quantity": 1,
-         "img": "https://cdn.fptshop.com.vn/Uploads/Originals/2019/9/11/637037687763926758_11-pro-max-xanh.png",
-         "description": "Description for iPhone 11 Pro Max"
-        },
-        {
-          "id": 3,
-         "name": "Macbook Pro 16 inch",
-         "price": "2399,99",
-         "quantity": 1,
-         "img": "https://shopdunk.com/wp-content/uploads/2019/11/mac16inch.jpg",
-         "description": "Description for Macbook Pro 16 inch"
-        }
+    {
+      "id": 6,
+      "name": "iMac Pro",
+      "price": 1299,
+      "quantity": 2,
+      "img": "https://laptopvang.com/wp-content/uploads/2019/03/imac-27inch-2019-laptopvang.jpg",
+      "description": "Description for iMac Pro"
+    },
+    {
+      "id": 7,
+      "name": "Mac Mini",
+      "price": 799,
+      "quantity": 2,
+      "img": "https://cdn.fptshop.com.vn/Uploads/Originals/2018/11/15/636778939663709826_macmini-1.png",
+      "description": "Description for Mac Mini"
+    },
+    {
+      "id": 8,
+      "name": "Magic Mouse 2",
+      "price": 99,
+      "quantity": 6,
+      "img": "https://cf.shopee.vn/file/a901c254e36412dc6aa13c1e60694c54",
+      "description": "Description for Magic Mouse 2"
+    },
+    {
+      "id": 9,
+      "name": "Magic Trackpad 2",
+      "price": 149,
+      "quantity": 3,
+      "img": "https://static.bhphoto.com/images/images2500x2500/1542283649_1190588.jpg",
+      "description": "Description for Magic Trackpad 2 "
+    },
+    {
+      "id": 10,
+      "name": "Magic Keyboard ",
+      "price": 149,
+      "quantity": 4,
+      "img": "https://phukienmac.vn/wp-content/uploads/2018/01/Apple-Wireless-Magic-Keyboard-2.jpg",
+      "description": "Description for Magic Keyboard"
+    }
   ]
 }
