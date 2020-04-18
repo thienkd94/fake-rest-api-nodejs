@@ -4,7 +4,7 @@
   "name": "Heall Lafferty",
   "email": "hlafferty0@soup.io",
   "gender": "Male",
-  "job": "Mechanical Systems Engineer",
+  "job": "Mechanical Engineer",
   "company": "Shuffledrive",
   "phone": "765-207-9803",
   "birthday": "02/02/1993"
@@ -58,14 +58,14 @@
   "name": "Gearalt Kopman",
   "email": "gkopman6@hostgator.com",
   "gender": "Male",
-  "job": "Physical Therapy Assistant",
+  "job": "Project Manager",
   "company": "Skyba",
   "phone": "412-189-3177",
   "birthday": "15/08/1991"
 }, {
   "id": 8,
   "name": "Franciskus Rignoldes",
-  "email": "frignoldes7@chronoengine.com",
+  "email": "frignoldes7@engine.com",
   "gender": "Male",
   "job": "Junior Executive",
   "company": "Kaymbo",
@@ -101,7 +101,7 @@
 }, {
   "id": 12,
   "name": "Shaun Langmuir",
-  "email": "slangmuirb@list-manage.com",
+  "email": "slangmuirb@manage.com",
   "gender": "Female",
   "job": "Assistant Media",
   "company": "Blogtag",
@@ -182,7 +182,7 @@
 }, {
   "id": 21,
   "name": "Chandler Jephson",
-  "email": "cjephsonk@hugedomains.com",
+  "email": "cjephsonk@huges.com",
   "gender": "Male",
   "job": "Web Developer",
   "company": "Yakidoo",
@@ -236,7 +236,7 @@
 }, {
   "id": 27,
   "name": "Milli Josilevich",
-  "email": "mjosilevichq@canalblog.com",
+  "email": "mjosilevichq@alblog.com",
   "gender": "Female",
   "job": "Recruiting Manager",
   "company": "Blogtags",
@@ -263,7 +263,7 @@
 }, {
   "id": 30,
   "name": "Greta Paulisch",
-  "email": "gpaulischt@yellowbook.com",
+  "email": "gpaulischt@yewbook.com",
   "gender": "Female",
   "job": "Compensation Analyst",
   "company": "Kare",
