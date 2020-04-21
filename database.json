@@ -6,7 +6,7 @@
   "gender": "Male",
   "job": "Paralegal",
   "company": "Twiyo",
-  "birthday": "11/29/1993",
+   "birthday": "1994-05-12",
   "phone": "555 639 0176"
 }, {
   "id": 2,
@@ -15,7 +15,7 @@
   "gender": "Female",
   "job": "Assistant Professor",
   "company": "Camimbo",
-  "birthday": "07/25/1992",
+  "birthday": "1990-09-15",
   "phone": "752 294 5667"
 }, {
   "id": 3,
@@ -24,7 +24,7 @@
   "gender": "Male",
   "job": "Operator",
   "company": "Voomm",
-  "birthday": "06/08/1998",
+  "birthday": "1990-10-13",
   "phone": "504 744 4644"
 }, {
   "id": 4,
@@ -33,7 +33,7 @@
   "gender": "Male",
   "job": "Assistant Manager",
   "company": "Meemm",
-  "birthday": "08/15/1998",
+ "birthday": "1998-03-12",
   "phone": "896 687 9243"
 }, {
   "id": 5,
@@ -42,7 +42,7 @@
   "gender": "Female",
   "job": "Pharmacist",
   "company": "Ooba",
-  "birthday": "04/11/1992",
+   "birthday": "1991-12-24",
   "phone": "507 988 1462"
 }, {
   "id": 6,
@@ -51,7 +51,7 @@
   "gender": "Male",
   "job": "Human Resources",
   "company": "Snaptags",
-  "birthday": "08/13/1998",
+  "birthday": "1995-10-15",
   "phone": "200 821 9390"
 }, {
   "id": 7,
@@ -60,7 +60,7 @@
   "gender": "Male",
   "job": "Media Manager",
   "company": "Meejo",
-  "birthday": "02/24/1996",
+  "birthday": "1996-02-24",
   "phone": "409 298 1467"
 }, {
   "id": 8,
@@ -69,7 +69,7 @@
   "gender": "Female",
   "job": "Staff Scientist",
   "company": "Cogilith",
-  "birthday": "05/12/1995",
+  "birthday": "1994-05-12",
   "phone": "522 430 3824"
 }, {
   "id": 9,
@@ -78,7 +78,7 @@
   "gender": "Female",
   "job": "Speech Pathologist",
   "company": "Leexo",
-  "birthday": "12/16/1991",
+  "birthday": "1991-12-16",
   "phone": "492 477 7554"
 }, {
   "id": 10,
@@ -87,7 +87,7 @@
   "gender": "Male",
   "job": "Physical Assistant",
   "company": "Yakijo",
-  "birthday": "03/06/1996",
+  "birthday": "1996-03-06",
   "phone": "940 223 3584"
 }, {
   "id": 11,
@@ -96,7 +96,7 @@
   "gender": "Male",
   "job": "Internal Auditor",
   "company": "Gigabox",
-  "birthday": "02/29/1992",
+  "birthday": "1992-02-29",
   "phone": "602 273 8086"
 }, {
   "id": 12,
@@ -105,7 +105,7 @@
   "gender": "Female",
   "job": "Analyst Programmer",
   "company": "Mymm",
-  "birthday": "02/10/1998",
+  "birthday": "1998-02-10",
   "phone": "245 880 1984"
 }, {
   "id": 13,
@@ -114,7 +114,7 @@
   "gender": "Female",
   "job": "Assistant Professor",
   "company": "Thoughtstorm",
-  "birthday": "07/07/1996",
+  "birthday": "1996-07-07",
   "phone": "809 330 4540"
 }, {
   "id": 14,
@@ -123,7 +123,7 @@
   "gender": "Male",
   "job": "Media Manager",
   "company": "Skyba",
-  "birthday": "09/28/1995",
+  "birthday": "1995-09-28",
   "phone": "430 114 8900"
 }, {
   "id": 15,
@@ -132,7 +132,7 @@
   "gender": "Female",
   "job": "Electrical Engineer",
   "company": "Trudoo",
-  "birthday": "08/19/1996",
+  "birthday": "1996-08-19",
   "phone": "698 213 0854"
 }, {
   "id": 16,
@@ -141,7 +141,7 @@
   "gender": "Female",
   "job": "Design manager",
   "company": "Abata",
-  "birthday": "07/10/1994",
+  "birthday": "1994-07-10",
   "phone": "328 541 5347"
 }, {
   "id": 17,
@@ -150,7 +150,7 @@
   "gender": "Male",
   "job": "Mechanical Engineer",
   "company": "Fiveclub",
-  "birthday": "01/20/1998",
+  "birthday": "1998-01-20",
   "phone": "917 809 0325"
 }, {
   "id": 18,
@@ -159,7 +159,7 @@
   "gender": "Male",
   "job": "Biostatistician",
   "company": "Twinte",
-  "birthday": "11/19/1993",
+  "birthday": "1993-11-19",
   "phone": "864 368 4260"
 }, {
   "id": 19,
@@ -168,7 +168,7 @@
   "gender": "Female",
   "job": "Safety Technician",
   "company": "Zoovu",
-  "birthday": "02/03/1997",
+  "birthday": "1997-02-03",
   "phone": "644 390 7251"
 }, {
   "id": 20,
@@ -177,7 +177,7 @@
   "gender": "Female",
   "job": "Account Representative",
   "company": "Roomm",
-  "birthday": "03/17/1990",
+  "birthday": "1990-03-17",
   "phone": "796 752 1801"
 }, {
   "id": 21,
@@ -186,7 +186,7 @@
   "gender": "Male",
   "job": "Research Associate",
   "company": "Myworks",
-  "birthday": "05/29/1993",
+  "birthday": "1993-29-05",
   "phone": "521 180 7472"
 }, {
   "id": 22,
@@ -195,7 +195,7 @@
   "gender": "Female",
   "job": "Marketing Manager",
   "company": "Wordtune",
-  "birthday": "06/17/1993",
+  "birthday": "1993-06-17",
   "phone": "251 614 4947"
 }, {
   "id": 23,
@@ -204,7 +204,7 @@
   "gender": "Female",
   "job": "Automation Specialist",
   "company": "Vitz",
-  "birthday": "10/18/1994",
+  "birthday": "1994-10-18",
   "phone": "313 943 5273"
 }, {
   "id": 24,
@@ -213,7 +213,7 @@
   "gender": "Male",
   "job": "Accounting Analyst",
   "company": "Brightdog",
-  "birthday": "08/19/1992",
+  "birthday": "1992-08-19",
   "phone": "331 822 8317"
 }, {
   "id": 25,
@@ -222,7 +222,7 @@
   "gender": "Male",
   "job": "Senior Developer",
   "company": "Gigabox",
-  "birthday": "02/21/1991",
+  "birthday": "1991-01-21",
   "phone": "175 795 0951"
 }, {
   "id": 26,
@@ -231,7 +231,7 @@
   "gender": "Male",
   "job": "Chemical Engineer",
   "company": "Realbridge",
-  "birthday": "08/30/1996",
+  "birthday": "1996-08-30",
   "phone": "881 948 7521"
 }, {
   "id": 27,
@@ -240,7 +240,7 @@
   "gender": "Male",
   "job": "Technician",
   "company": "Dabshots",
-  "birthday": "07/06/1991",
+  "birthday": "1991-07-06",
   "phone": "738 423 5874"
 }, {
   "id": 28,
@@ -249,7 +249,7 @@
   "gender": "Male",
   "job": "Registered Nurse",
   "company": "Kwimbee",
-  "birthday": "12/11/1996",
+  "birthday": "1996-12-11",
   "phone": "122 806 2922"
 }, {
   "id": 29,
@@ -258,7 +258,7 @@
   "gender": "Male",
   "job": "Tax Accountant",
   "company": "Gigabox",
-  "birthday": "11/08/1992",
+  "birthday": "1992-11-08",
   "phone": "844 607 6218"
 }, {
   "id": 30,
@@ -267,7 +267,7 @@
   "gender": "Female",
   "job": "Geologist",
   "company": "Oloo",
-  "birthday": "12/13/1991",
+  "birthday": "1991-12-13",
   "phone": "111 198 0798"
 }],
   "products": [
