@@ -7,7 +7,7 @@
       "email": "rcallery0@zimbio.com",
       "jobTitle": "Staff Scientist",
       "company": "Russel-Moen",
-      "status": true,
+      "status": 1,
       "code": "657-22-1935"
     },
     {
@@ -17,7 +17,7 @@
       "email": "cugoni1@cam.ac.uk",
       "jobTitle": "VP Marketing",
       "company": "Bradtke LLC",
-      "status": false,
+      "status": 2,
       "code": "231-51-9678"
     },
     {
@@ -27,7 +27,7 @@
       "email": "ablakey2@twitter.com",
       "jobTitle": "Help Desk Technician",
       "company": "Haag and Sons",
-      "status": true,
+      "status": 1,
       "code": "444-93-6175"
     },
     {
@@ -37,7 +37,7 @@
       "email": "ebeckensall3@cloudflare.com",
       "jobTitle": "Accounting Assistant III",
       "company": "Medhurst-Mills",
-      "status": false,
+      "status": 2,
       "code": "237-77-7383"
     },
     {
@@ -47,7 +47,7 @@
       "email": "jantonsen4@reverbnation.com",
       "jobTitle": "Assistant Manager",
       "company": "Nader, Harvey and Schulist",
-      "status": false,
+      "status": 2,
       "code": "787-78-9267"
     },
     {
@@ -57,7 +57,7 @@
       "email": "ldeackes5@netlog.com",
       "jobTitle": "Senior Quality Engineer",
       "company": "Gutkowski and Sons",
-      "status": true,
+      "status": 1,
       "code": "755-50-6198"
     },
     {
@@ -67,7 +67,7 @@
       "email": "tdauney6@tripadvisor.com",
       "jobTitle": "Desktop Support Technician",
       "company": "Goldner Group",
-      "status": false,
+      "status": 2,
       "code": "861-76-2585"
     },
     {
@@ -77,7 +77,7 @@
       "email": "taxston7@xinhuanet.com",
       "jobTitle": "Health Coach I",
       "company": "Armstrong-Quigley",
-      "status": false,
+      "status": 2,
       "code": "874-19-0446"
     },
     {
@@ -87,7 +87,7 @@
       "email": "adeares8@odnoklassniki.ru",
       "jobTitle": "Health Coach IV",
       "company": "Anderson LLC",
-      "status": false,
+      "status": 2,
       "code": "810-01-8206"
     },
     {
@@ -97,7 +97,7 @@
       "email": "tlebang9@163.com",
       "jobTitle": "Database Administrator II",
       "company": "Schmeler, Jones and Hudson",
-      "status": false,
+      "status": 2,
       "code": "240-77-4044"
     },
     {
@@ -107,7 +107,7 @@
       "email": "bbougha@berkeley.edu",
       "jobTitle": "Assistant Professor",
       "company": "Pagac, Schmidt and Brakus",
-      "status": true,
+      "status": 1,
       "code": "499-39-7278"
     },
     {
@@ -117,7 +117,7 @@
       "email": "jandrichakb@hostgator.com",
       "jobTitle": "Payment Adjustment Coordinator",
       "company": "Nolan, Murazik and Dach",
-      "status": false,
+      "status": 2,
       "code": "864-29-2992"
     },
     {
@@ -127,7 +127,7 @@
       "email": "tbouslerc@fema.gov",
       "jobTitle": "General Manager",
       "company": "Walker, Marks and Dickens",
-      "status": false,
+      "status": 2,
       "code": "799-78-9371"
     },
     {
@@ -137,7 +137,7 @@
       "email": "ewallesd@google.ca",
       "jobTitle": "Analyst Programmer",
       "company": "Hamill, Shanahan and Bogisich",
-      "status": true,
+      "status": 1,
       "code": "846-28-5580"
     },
     {
@@ -147,7 +147,7 @@
       "email": "mpygotte@miitbeian.gov.cn",
       "jobTitle": "Software Engineer II",
       "company": "Hyatt-Cummerata",
-      "status": true,
+      "status": 1,
       "code": "531-72-9933"
     },
     {
@@ -157,7 +157,7 @@
       "email": "mdef@blogs.com",
       "jobTitle": "Recruiting Manager",
       "company": "Bradtke-Rohan",
-      "status": true,
+      "status": 1,
       "code": "241-64-1794"
     },
     {
@@ -167,7 +167,7 @@
       "email": "kconewg@godaddy.com",
       "jobTitle": "Teacher",
       "company": "Borer and Sons",
-      "status": false,
+      "status": 2,
       "code": "439-91-2158"
     },
     {
@@ -177,7 +177,7 @@
       "email": "cpindarh@house.gov",
       "jobTitle": "Environmental Tech",
       "company": "Marvin, McClure and Bode",
-      "status": true,
+      "status": 1,
       "code": "456-57-6559"
     },
     {
@@ -187,7 +187,7 @@
       "email": "hlasselli@usgs.gov",
       "jobTitle": "Recruiter",
       "company": "DuBuque, Leffler and Turcotte",
-      "status": true,
+      "status": 1,
       "code": "756-63-8002"
     },
     {
@@ -197,7 +197,7 @@
       "email": "abontinej@sina.com.cn",
       "jobTitle": "Marketing Manager",
       "company": "Quitzon, Boyer and Schoen",
-      "status": true,
+      "status": 1,
       "code": "531-32-4989"
     },
     {
@@ -207,7 +207,7 @@
       "email": "bhawyesk@sitemeter.com",
       "jobTitle": "Database Administrator II",
       "company": "Maggio, Ortiz and Cruickshank",
-      "status": true,
+      "status": 1,
       "code": "329-60-3206"
     },
     {
@@ -217,7 +217,7 @@
       "email": "gknapmanl@tiny.cc",
       "jobTitle": "VP Marketing",
       "company": "Reilly, Hilpert and Greenholt",
-      "status": true,
+      "status": 1,
       "code": "193-56-2046"
     },
     {
@@ -227,7 +227,7 @@
       "email": "zmegsonm@cbc.ca",
       "jobTitle": "Quality Control Specialist",
       "company": "Thompson, Halvorson and Reilly",
-      "status": true,
+      "status": 1,
       "code": "408-90-2379"
     },
     {
@@ -237,7 +237,7 @@
       "email": "tlevern@parallels.com",
       "jobTitle": "Executive Secretary",
       "company": "White Group",
-      "status": true,
+      "status": 1,
       "code": "229-25-5729"
     },
     {
@@ -247,7 +247,7 @@
       "email": "mpuddingo@joomla.org",
       "jobTitle": "Payment Adjustment Coordinator",
       "company": "Hyatt-Casper",
-      "status": false,
+      "status": 2,
       "code": "116-52-5338"
     },
     {
@@ -257,7 +257,7 @@
       "email": "bmcronaldp@cyberchimps.com",
       "jobTitle": "Legal Assistant",
       "company": "Maggio-Cummings",
-      "status": true,
+      "status": 1,
       "code": "516-64-3593"
     },
     {
@@ -267,7 +267,7 @@
       "email": "vofficerq@bluehost.com",
       "jobTitle": "Sales Associate",
       "company": "Leannon-Wintheiser",
-      "status": true,
+      "status": 1,
       "code": "850-42-2117"
     },
     {
@@ -277,7 +277,7 @@
       "email": "akrabber@goo.gl",
       "jobTitle": "Graphic Designer",
       "company": "Cronin-Streich",
-      "status": false,
+      "status": 2,
       "code": "575-78-0294"
     },
     {
@@ -287,7 +287,7 @@
       "email": "pparisos@about.me",
       "jobTitle": "Dental Hygienist",
       "company": "Osinski-Hudson",
-      "status": true,
+      "status": 1,
       "code": "555-11-9201"
     },
     {
@@ -297,7 +297,7 @@
       "email": "candresst@skyrock.com",
       "jobTitle": "Systems Administrator I",
       "company": "Pacocha, Morissette and Feest",
-      "status": false,
+      "status": 2,
       "code": "223-76-7752"
     },
     {
@@ -307,7 +307,7 @@
       "email": "bbiskupiaku@mediafire.com",
       "jobTitle": "General Manager",
       "company": "Tillman, Streich and Gutkowski",
-      "status": true,
+      "status": 1,
       "code": "604-17-3459"
     },
     {
@@ -317,7 +317,7 @@
       "email": "mcanetev@topsy.com",
       "jobTitle": "Research Associate",
       "company": "VonRueden, Kovacek and Gleason",
-      "status": true,
+      "status": 1,
       "code": "349-03-5808"
     },
     {
@@ -327,7 +327,7 @@
       "email": "elatchfordw@flickr.com",
       "jobTitle": "Human Resources Assistant I",
       "company": "Senger-Haag",
-      "status": false,
+      "status": 2,
       "code": "876-42-4813"
     },
     {
@@ -337,7 +337,7 @@
       "email": "ahazeldinex@taobao.com",
       "jobTitle": "Chemical Engineer",
       "company": "Kutch, Reynolds and Swaniawski",
-      "status": false,
+      "status": 2,
       "code": "324-61-2004"
     },
     {
@@ -347,7 +347,7 @@
       "email": "rbrodyy@123-reg.co.uk",
       "jobTitle": "Chief Design Engineer",
       "company": "Buckridge, Spencer and Prosacco",
-      "status": false,
+      "status": 2,
       "code": "800-03-6020"
     },
     {
@@ -357,7 +357,7 @@
       "email": "abonnettez@slideshare.net",
       "jobTitle": "Biostatistician III",
       "company": "Smitham Group",
-      "status": false,
+      "status": 2,
       "code": "436-43-3272"
     },
     {
@@ -367,7 +367,7 @@
       "email": "mmayston10@epa.gov",
       "jobTitle": "Human Resources Manager",
       "company": "Jenkins, Schumm and Labadie",
-      "status": false,
+      "status": 2,
       "code": "854-98-1255"
     },
     {
@@ -377,7 +377,7 @@
       "email": "pfloat11@prweb.com",
       "jobTitle": "Desktop Support Technician",
       "company": "Osinski, Batz and Ratke",
-      "status": false,
+      "status": 2,
       "code": "171-32-2452"
     },
     {
@@ -387,7 +387,7 @@
       "email": "cwallen12@google.fr",
       "jobTitle": "Information Systems Manager",
       "company": "Lueilwitz-Towne",
-      "status": true,
+      "status": 1,
       "code": "535-17-5110"
     },
     {
@@ -397,7 +397,7 @@
       "email": "ogonnelly13@chicagotribune.com",
       "jobTitle": "VP Marketing",
       "company": "Kling-Ledner",
-      "status": false,
+      "status": 2,
       "code": "418-92-0085"
     }
   ],
